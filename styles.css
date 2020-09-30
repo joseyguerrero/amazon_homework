@@ -1,0 +1,41 @@
+/* Banner Section Class */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo-img{
+    display:block;
+    margin:0 auto;
+}
+.div_example{
+    padding: 10px
+}
+
+fieldset{
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.hero-text h1{
+    text-align: center;
+    position: relative;
+    transform: translate(10vh,13vw);
+}
+
+
+
+.line-divider {
+    text-align: center;  
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.line-divider hr {  
+    margin: 7px 0px; 
+    width: 35%;
+}
+.left { 
+    float: left; 
+}
+.right {  
+    float: right; 
+}
